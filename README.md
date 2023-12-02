@@ -1,4 +1,4 @@
-#  Repositori ini dibuat untuk memenuhi penilaian tuggas matakuliah pemrograman mobile
+#  Repositori ini dibuat untuk memenuhi penilaian tuggas matakuliah Pemrograman Mobile 1
 
 #  Nama  : Midun Hakiki
 #  Nim   : 312210583
